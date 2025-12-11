@@ -1,11 +1,14 @@
 <table cellspacing=0 ><tr><td valign="center" width="70%">
 
+<div align="center">
+
 # Ashley (rustley)
 
 ![Followers](https://img.shields.io/github/followers/rustley?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/rustley?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=rustley)
->  “We all have a Monster within; the difference is in degree, not in kind.” – Douglas Preston.
+
+>  "We all have a Monster within; the difference is in degree, not in kind." – Douglas Preston.
 
 ## Projects
 
@@ -14,6 +17,8 @@
 ---
 
 ## Skills
+
+</div>
 
 <div align="center">
 
@@ -44,9 +49,12 @@
 
 </div>
 
+<div align="center">
+
 ---
 
 ## Education
+
 <table style="border-color: transparent;" cellspacing=0 >
   <tr>
     <td valign="center" width="50%">
@@ -63,6 +71,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 </td>
 </tr></table>
