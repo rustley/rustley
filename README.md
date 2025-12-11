@@ -1,5 +1,3 @@
-<table cellspacing=0 ><tr><td valign="center" width="70%">
-
 <div align="center">
 
 # Ashley (rustley)
@@ -62,8 +60,6 @@
       <br />
       <strong>Computer Information Systems (In Progress)</strong>
     </td>
-  </tr>
-  <tr>
     <td valign="center" width="50%">
       <img src="https://img.shields.io/badge/Minor-Cyber%20Security-purple?style=flat-square" alt="Minor">
       <br />
